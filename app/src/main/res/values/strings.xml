@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RewardsFragment</string>
+    <string name="redeemss">Redeem</string>
+    <string name="redeemsssss">Redeem</string>
+    <string name="redeemsss">Redeem</string>
+    <string name="s">Redeem</string>
+    <string name="ddyouwant">Do you want to redeem?</string>
+    <string name="pointss">Points once redeemed will \n    not be refunded.</string>
+    <string name="enjoy">Enjoy the perks! Your points \nhave been redeemed—go \ntreat yourself!</string>
+</resources>

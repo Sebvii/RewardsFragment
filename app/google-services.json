@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322571121929",
+    "project_id": "challenges-22d68",
+    "storage_bucket": "challenges-22d68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322571121929:android:e5c93ffedc68e2835f4fd8",
+        "android_client_info": {
+          "package_name": "com.example.challenges"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwHhj3tJXKZ8BZ6fEWBJhZNVGbb00mCJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322571121929:android:0501cf204db077575f4fd8",
+        "android_client_info": {
+          "package_name": "com.example.rewardsfragment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwHhj3tJXKZ8BZ6fEWBJhZNVGbb00mCJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
